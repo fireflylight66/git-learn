@@ -12,4 +12,4 @@ update feature-2 = 'xxxxxx'
 update feature-3 = 'xpxpxpx'
 update MYFEATURE = '2234234'
 update MYFEATURE-1 = 'rrrr'
-
+update MYFEATURE-3 = 'xxxti'
