@@ -6,4 +6,4 @@ mokalaka
 
 my updated again
 
-this is dev + new feature
+this is dev + new feature.
